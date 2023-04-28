@@ -456,8 +456,8 @@ h6 {
 }
 
 #hero h2 {
-  color: #363636;
-  text-shadow: 1px 1px white;
+  color: white;
+  text-shadow: 1px 1px #363636;
   margin: 10px 0 0 0;
   font-size: 22px;
 }
