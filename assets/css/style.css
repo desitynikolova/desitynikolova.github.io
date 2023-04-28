@@ -427,7 +427,7 @@ h6 {
 
 /* #hero:before {
   content: "";
-  background: rgba(127, 127, 127, 0.587);
+  background: rgb(84 84 84 / 51%);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -451,11 +451,13 @@ h6 {
   font-size: 48px;
   font-weight: 700;
   line-height: 56px;
-  color: #222222;
+  color: #363636;
+  text-shadow: 1px 1px white;
 }
 
 #hero h2 {
-  color: #6f6f6f;
+  color: #363636;
+  text-shadow: 1px 1px white;
   margin: 10px 0 0 0;
   font-size: 22px;
 }
@@ -504,6 +506,16 @@ h6 {
   #hero h2 {
     font-size: 18px;
     line-height: 24px;
+  }
+
+  #hero:before {
+    content: "";
+    background: rgba(207, 207, 207, 0.51);
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
   }
 }
 
