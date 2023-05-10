@@ -1,4 +1,5 @@
-Thanks for downloading this template!
+Portfolio Anatoliy Deshev - my brother
+University project
 
 Template Name: Kelly
 Template URL: https://bootstrapmade.com/kelly-free-bootstrap-cv-resume-html-template/
