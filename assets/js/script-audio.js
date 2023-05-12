@@ -5,8 +5,7 @@ function readText(element) {
     window.speechSynthesis.speak(speech);
 }
 
-function stopRead(element) {
-    const text = element.textContent;
+function stopRead() {
     const synth = window.speechSynthesis;
     synth.cancel();
 }
